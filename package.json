@@ -12,6 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.1"
+  }, "dependencies": {
+    "cypress": "5.4.0",
+    "mochawesome": "6.1.1"
   },
   "devDependencies": {
     "cypress": "^9.6.0"
